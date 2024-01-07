@@ -1,4 +1,4 @@
-# Practice of using tars-php
+#!Practice of using tars-php
 
 
 
@@ -328,4 +328,4 @@ Note:
 
 - Select tar.default for all the parent template names
 
-- The descriptions of protocolname and type in the document are missing, and errors will be reported in actual use. Please follow the above instructions for safety
+- The descriptions of protocolname and type in the document are missing, and errors will be reported in actual use. Please follow the above instructions for safety 
